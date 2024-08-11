@@ -3,8 +3,7 @@ body {
     background-image: linear-gradient(to right, #fadadd , #000080);
   }
 
- 
- 
+  
   .footer {
     background-color: #333;
     color: #fff;
@@ -61,7 +60,7 @@ body {
 .x-pic {
   width: 120px;
   margin-top: 15px;
-  /* margin-left: 800px; */
+  
   margin-right: 450px;
   
 }
@@ -80,11 +79,4 @@ body {
   margin-left: 100px;
   margin-top: 20px;
   margin-right: 350px;
-}
-.more-button {
-  margin-left: 650px;
-  display: block; 
-  margin: 50px auto; 
-  text-align: center; 
-  border-radius: 50px;
 }
